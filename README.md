@@ -13,7 +13,7 @@ news_analysis_pj
     이연호 https://github.com/CUAGAIN-95
 ---
 ## 개발 기간
-2022.10.05 ~ 2022.10.18
+2022.10.05 ~ 2022.11.18
 ---
 ## Reference
 크롤링
