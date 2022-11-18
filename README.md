@@ -1,7 +1,6 @@
 news_analysis_pj
 ===
 
-
 ## 버전
 - python 3.9.13
 ---
@@ -12,6 +11,9 @@ news_analysis_pj
 - 데이터 수집, 전처리
 
     이연호 https://github.com/CUAGAIN-95
+---
+## 개발 기간
+2022.10.05 ~ 2022.10.18
 ---
 ## Reference
 크롤링
