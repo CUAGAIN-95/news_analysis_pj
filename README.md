@@ -1,8 +1,11 @@
 news_analysis_pj
 ===
 
-## 버전
+## 개발 환경
+언어
 - python 3.9.13
+os
+- window
 ---
 ## 함께 진행한 동료
 - 분석, 머신러닝
